@@ -19,7 +19,7 @@ class MyDialog(QDialog):
         layout.addWidget(self.MyTable)
         self.setLayout(layout)
 
-
+#test for git
 if __name__ == '__main__':
     import sys
     app = QApplication(sys.argv)
